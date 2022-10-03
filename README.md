@@ -2,8 +2,8 @@
 <h3 align="left">A passionate web developer from Indonesia</h3>
 
 - 🌱 I’m currently learning **React JS, dotnet, docker & more.**
-- 📫 How to reach me **mirfanfad@gmail.com**
-- 📄 Know about my experiences [https://1drv.ms/b/s!AuzmcCLa5GpGg904lYkDZt_xo7vGGA?e=hWGO9P](https://1drv.ms/b/s!AuzmcCLa5GpGg904lYkDZt_xo7vGGA?e=hWGO9P)
+- 📫 How to reach me => **mirfanfad@gmail.com**
+- 📄 Know about my experiences => [My Resume](https://1drv.ms/b/s!AuzmcCLa5GpGg904lYkDZt_xo7vGGA?e=hWGO9P)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
